@@ -1,4 +1,4 @@
-# MCH Carousel
+# MCH Carousel -- Work in Progress, far from production-ready
 
 Yet another carousel, this time from some obscure developer in Barcelona...
 
@@ -21,9 +21,10 @@ Yet another carousel, this time from some obscure developer in Barcelona...
 ## Demo page
 
 ## FAQ
-* Is the MCh Carousel responsive?
+* Is the MCh Carousel responsive?  
+    Being styled using only CSS, as a rule of thumb the MCh Carousel is as responsive as your CSS is.
 
-* Who is mesmerizedChild?
+* Who is mesmerizedChild?  
   mesmerizedChild is an Italian guy living in Barcelona, who recently embarked on the adventure of web development. The fact that he's still fairly new to this business [as of August 2015] does not automatically imply that a total noob: mesmerizedChild has been in the IT industry since 1988 and has been programming and providing IT technical support ever since. He knows how to deliver quality products, and hopes that this piece of software will not disappoing anybody :smiley: ...
 
 ##### Please send duggestions, ideas, [constructive] criticism, kudos and anything else, to [the author](mailto:rg@mesmerizedchild.eu).
