@@ -5,7 +5,6 @@ Yet another carousel, this time from some obscure developer in Barcelona...
 ## What is MCh Carousel?
 
 
-
 ## Features
 * Styled entirely via CSS
 * Up to 3 lines of caption for each image
@@ -24,7 +23,9 @@ Yet another carousel, this time from some obscure developer in Barcelona...
 ## FAQ
 * Is the MCh Carousel responsive?
 
-#### Please send duggestions, ideas, [constructive] criticism, kudos and anything else, to [the author](mailto:rg@mesmerizedchild.eu).
+* Who is mesmerizedChild?
+  mesmerizedChild is an Italian guy living in Barcelona, who recently embarked on the adventure of web development. The fact that he's still fairly new to this business [as of August 2015] does not automatically imply that a total noob: mesmerizedChild has been in the IT industry since 1988 and has been programming and providing IT technical support ever since. He knows how to deliver quality products, and hopes that this piece of software will not disappoing anybody :smiley: ...
+
+##### Please send duggestions, ideas, [constructive] criticism, kudos and anything else, to [the author](mailto:rg@mesmerizedchild.eu).
 
 Thank you for your interest!
-  Mesmerized Child.
