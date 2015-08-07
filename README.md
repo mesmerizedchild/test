@@ -1,4 +1,10 @@
-test
-====
+# MCH Carousel
+==========
 
-Welcome to GitHub, let me check how this works...
+Yet another carousel, this time from some obscure developer in Barcelona :confused: ...
+
+## What is MCh Carousel?
+
+
+
+## Features
