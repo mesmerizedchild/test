@@ -54,9 +54,9 @@ The following [pseudo] code shows quickly the steps involved in creating an MCh 
     Support for later version of jQuery should be available shortly after they are released.  
     On the other hand, support for jQuery 1.x is out of the question.
 
-## Browser support
-    As a rule of thumb, MCh Carousel will work on any browser supported by jQuery 2.1.4 [see [https://jquery.com/browser-support/](https://jquery.com/browser-support/) for more information].  
-    If you find that your experience is quite different, then let me know.
+## Browser support  
+As a rule of thumb, MCh Carousel will work on any browser supported by jQuery 2.1.4 [see [https://jquery.com/browser-support/](https://jquery.com/browser-support/) for more information].  
+If you find that your experience is quite different, then let me know.
 
 ## FAQ, Good-To-Know and Trivia
 * **Is the MCh Carousel responsive?**  
